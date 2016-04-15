@@ -3,6 +3,8 @@ Release 1.0.4-Custom1 (Morjiai) (April 14th, 2016)
 ------------------
 
 * [IMPROVE] Updated Framework7 Release 1.4.2
+* [IMPROVE] jQuery updated to v2.2.3
+
 
 Release 1.0.3-1832 (August 24)
 ------------------
