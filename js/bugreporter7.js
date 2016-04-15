@@ -1,6 +1,6 @@
 /*
  * Bug Reporter⁷ JavaScript Components
- * Version 1.0.3
+ * Version 1.0.4
  *
  * https://github.com/SniperGER/Bug-Reporter7
  *
@@ -36,8 +36,8 @@ function pad(n) {
 	"use strict",
 	window.BugReporter7 = function(params) {
 		var component = this;
-		this.version = "1.0.3";
-		this.build = "1832";
+		this.version = "1.0.4";
+		this.build = "Custom1";
 		this.params = {
 			modern : {
 				enabled: false,			// Default: false
