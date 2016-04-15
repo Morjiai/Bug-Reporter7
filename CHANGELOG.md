@@ -1,8 +1,10 @@
 # Changelog
-Releade 1.0.4-Custom1 (Morjiai) (April 14th, 2016)
+Release 1.0.4-Custom1 (Morjiai) (April 14th, 2016)
+------------------
+
 * [IMPROVE] Updated Framework7 Release 1.4.2
 
-Releade 1.0.3-1832 (August 24)
+Release 1.0.3-1832 (August 24)
 ------------------
 * [ADD] Modern UI for an iOS 8-like look and feel
 * [ADD] Swipe To Delete Bugs
